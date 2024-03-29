@@ -1,0 +1,23 @@
+.home-container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container .input-container input{
+  font-size: 20px;
+  display: block;
+  padding: 10px 20px;
+  margin: 10px 0;
+}
+
+
+.home-container .input-container button{
+  font-size: 15px;
+  display: block;
+  padding: 10px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+}
